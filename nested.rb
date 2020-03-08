@@ -72,7 +72,7 @@ def adding_matz
 
 	programmer_hash =
  		{
-				:adding_matz.keys => :yukihiro_matsumoto
+				:yukihiro_matsumoto
 
 			},
         :grace_hopper => {
